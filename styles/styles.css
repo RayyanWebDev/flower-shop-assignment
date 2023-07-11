@@ -134,11 +134,21 @@
 
 /* Social Media Section */
 
+.social-media {
+  text-align: center;
+}
 .instagram {
+  padding-top: 3rem;
   padding-bottom: 0.5rem;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   color: rgb(39, 39, 39);
 }
 .social-media-description {
   color: rgb(122, 117, 117);
+}
+.bouquet-of-roses {
+  height: 190px;
+}
+.bouquet-of-daisy {
+  height: 190px;
 }
