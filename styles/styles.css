@@ -169,11 +169,41 @@
   padding-top: 2rem;
   height: 190px;
 }
+
+/* Coupon Section */
+
 .coupon-container {
-  text-align: center;
   background-image: url(../images/Rectangle\ 9.png);
   background-repeat: no-repeat;
   background-position: center;
-  height: 300px;
+  height: 25vh;
   padding-top: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.coupon-title {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(39, 39, 39);
+  font-size: 40px;
+}
+.coupon-description {
+  font-size: 16px;
+  padding-top: 0.5rem;
+  padding-bottom: 1.5rem;
+}
+#subscription {
+  height: 35px;
+  width: 480px;
+  border: none;
+  border-radius: 4px;
+}
+.btn-sub {
+  width: 100px;
+  height: 30px;
+  background-color: rgb(229, 84, 115);
+  color: white;
+  border: none;
+  border-radius: 4px;
 }
