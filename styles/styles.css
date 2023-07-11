@@ -48,6 +48,20 @@
   height: 100vh;
   text-align: center;
 }
+.featured-text {
+  float: right;
+}
 .feature-images {
   display: flex;
+  justify-content: center;
+  padding-top: 200px;
+}
+.feature-image-one {
+  height: 250px;
+}
+.feature-image-two {
+  height: 250px;
+}
+.feature-image-three {
+  height: 250px;
 }
