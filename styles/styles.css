@@ -210,19 +210,25 @@
 
 /* Footer Section */
 
-.storename {
+.storename-color {
   color: rgb(229, 84, 115);
 }
 .copyright-container {
   background-color: rgb(17, 16, 16);
-  height: 30vh;
+  height: 35vh;
   text-align: center;
   margin-top: 60px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
-.text-color {
+.text {
   color: white;
+  padding-top: 90px;
+}
+.storename {
+  font-size: 40px;
+  padding-bottom: 1rem;
 }
 .copyright-text {
   color: rgb(82, 82, 82);
+  padding-top: 2rem;
 }
