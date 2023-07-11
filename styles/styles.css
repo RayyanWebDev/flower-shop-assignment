@@ -90,6 +90,17 @@
   gap: 10.5em;
   padding-top: 1.5rem;
 }
-.discount {
-  border-color: blue;
+
+.discount-description {
+  color: rgb(122, 117, 117);
+}
+.discount-container {
+  display: flex;
+  justify-content: space-between;
+}
+.percentile-title {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.btn-sign-up {
+  background-color: rgb(229, 84, 115);
 }
