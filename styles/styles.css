@@ -11,9 +11,10 @@
 .banner-text {
   padding: 100px;
 }
-.motto-of-life {
+.tagline {
   color: rgb(39, 39, 39);
   font-size: 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 .shop-now-btn {
   background-color: rgb(229, 84, 115);
