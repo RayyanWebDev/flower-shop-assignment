@@ -213,3 +213,16 @@
 .storename {
   color: rgb(229, 84, 115);
 }
+.copyright-container {
+  background-color: rgb(17, 16, 16);
+  height: 30vh;
+  text-align: center;
+  margin-top: 60px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.text-color {
+  color: white;
+}
+.copyright-text {
+  color: rgb(82, 82, 82);
+}
