@@ -207,3 +207,9 @@
   border: none;
   border-radius: 4px;
 }
+
+/* Footer Section */
+
+.storename {
+  color: rgb(229, 84, 115);
+}
