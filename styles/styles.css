@@ -90,6 +90,30 @@
   gap: 10.5em;
   padding-top: 1.5rem;
 }
+
+/* Courier Letter Section */
+
+.courier-container {
+  background-image: url(../images/Screenshot\ 2023-07-11\ 223226.png);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  text-align: right;
+}
+.courier-text {
+  color: rgb(218, 95, 98);
+  font-size: 25px;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  margin-left: 1000px;
+  margin-top: 75px;
+}
+
+/* Coupon Section */
+
 .discount-container {
   display: flex;
   justify-content: space-between;
