@@ -43,38 +43,17 @@
 
 /* Header Feature Part */
 
-/* .featured-items {
-  /* display: flex;
-  text-align: center; */
-/* }
-.featured-text {
-}
-.feature-images {
-  display: flex;
-  justify-content: center;
-  /* padding-top: 300px;
-  margin-right: 6000px; */
-/* }
-.feature-image-one {
-  height: 250px;
-}
-/* .feature-image-two {
-  height: 250px;
-}
-.feature-image-three {
-  height: 250px;
-}  */
-
 .text-container {
   text-align: center;
   margin: auto;
-  /* padding-top: 7rem; */
+  padding-top: 7rem;
 }
 .feature-images {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* padding-top: 15rem; */
+  gap: 2rem;
+  padding-top: 5rem;
 }
 .feature-image-pink {
   height: 190px;
@@ -92,5 +71,6 @@
   display: flex;
   justify-content: center;
   /* align-items: center; */
-  gap: 1em;
+  gap: 4.5em;
+  padding-top: 1.5rem;
 }
