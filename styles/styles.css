@@ -146,15 +146,25 @@
 .social-media-description {
   color: rgb(122, 117, 117);
 }
+.social-media-layout {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+}
 .bouquet-of-roses {
+  padding-top: 2rem;
   height: 190px;
 }
 .bouquet-of-daisy {
+  padding-top: 2rem;
   height: 190px;
 }
 .flower-in-tub {
+  padding-top: 2rem;
   height: 190px;
 }
 .red-roses {
+  padding-top: 2rem;
   height: 190px;
 }
