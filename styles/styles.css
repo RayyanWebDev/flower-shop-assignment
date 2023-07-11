@@ -49,15 +49,24 @@
   text-align: center;
 }
 .featured-text {
-  float: right;
+  height: 5vh;
+  max-width: 10vh;
+  margin: 45px 100px 0px 500px;
+  padding: 45px 100px 0px 100px;
 }
 .feature-images {
+  height: 0vh;
+  width: 0vw;
   display: flex;
   justify-content: center;
-  padding-top: 200px;
+  padding-top: 300px;
+  margin-right: 6000px;
 }
 .feature-image-one {
   height: 250px;
+  border: 90px;
+  border-color: black;
+  border-radius: 15px;
 }
 .feature-image-two {
   height: 250px;
