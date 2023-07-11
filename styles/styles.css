@@ -81,6 +81,7 @@
   display: flex;
   justify-content: center;
   /* align-items: center; */
-  gap: 4.5em;
+  gap: 10.5em;
   padding-top: 1.5rem;
 }
+
