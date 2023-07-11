@@ -91,7 +91,7 @@
   padding-top: 1.5rem;
 }
 
-/* Courier Letter Section */
+/* Header Courier Letter Section */
 
 .courier-container {
   background-image: url(../images/screensho.png);
@@ -112,7 +112,7 @@
   margin-top: 75px;
 }
 
-/* Coupon Section */
+/* Main Discount Section */
 
 .discount-container {
   display: flex;
@@ -156,7 +156,7 @@
   color: rgb(229, 84, 115);
 }
 
-/* Social Media Section */
+/* Main Social Media Section */
 
 .social-media {
   text-align: center;
@@ -194,7 +194,7 @@
   height: 190px;
 }
 
-/* Coupon Section */
+/* Main Coupon Section */
 
 .coupon-container {
   background-image: url(../images/Rectangle\ 9.png);
