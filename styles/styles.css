@@ -59,16 +59,20 @@
   }
   .feature-image-pink {
     height: 190px;
+    width: 175px;
+    padding: 2rem;
     background-color: rgb(242, 222, 232);
-    border-radius: 50px;
+    
   }
   .feature-image-red {
-    height: 180px;
+    height: 190px;
+    padding: 2rem;
     background-color: rgb(218, 240, 241);
   }
   .feature-image-yellow {
     height: 190px;
-    width: ;
+    width: 175px;
+    padding: 2rem;
     background-color: rgb(228, 236, 220);
   }
 
