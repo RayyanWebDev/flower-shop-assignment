@@ -65,13 +65,20 @@
   height: 250px;
 }  */
 
-.featured-items {
-  display: flex;
-}
-.feature-images {
-  display: flex;
-}
 .text-container {
   text-align: center;
   margin: auto;
+}
+
+.feature-image-pink {
+  height: 190px;
+}
+.feature-image-red {
+  height: 190px;
+}
+.feature-image-yellow {
+  height: 190px;
+}
+.feature-item-container {
+  height: 100vh;
 }
