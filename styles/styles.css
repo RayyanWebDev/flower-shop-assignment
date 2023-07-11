@@ -43,34 +43,35 @@
 
 /* Header Feature Part */
 
-.featured-items {
-  display: flex;
-  height: 100vh;
-  text-align: center;
-}
+/* .featured-items {
+  /* display: flex;
+  text-align: center; */
+/* }
 .featured-text {
-  height: 5vh;
-  max-width: 10vh;
-  margin: 45px 100px 0px 500px;
-  padding: 45px 100px 0px 100px;
 }
 .feature-images {
-  height: 0vh;
-  width: 0vw;
   display: flex;
   justify-content: center;
-  padding-top: 300px;
-  margin-right: 6000px;
-}
+  /* padding-top: 300px;
+  margin-right: 6000px; */
+/* }
 .feature-image-one {
   height: 250px;
-  border: 90px;
-  border-color: black;
-  border-radius: 15px;
 }
-.feature-image-two {
+/* .feature-image-two {
   height: 250px;
 }
 .feature-image-three {
   height: 250px;
+}  */
+
+.featured-items {
+  display: flex;
+}
+.feature-images {
+  display: flex;
+}
+.text-container {
+  text-align: center;
+  margin: auto;
 }
