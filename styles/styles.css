@@ -2,6 +2,10 @@
   padding: 0px;
   margin: 0px;
 }
+/* Header */
+
+/* Banner */
+
 .banner-container {
   background-color: rgb(253, 238, 241);
   display: flex;
@@ -38,3 +42,5 @@
   height: 635px;
   width: 500px;
 }
+
+/* Feature */
