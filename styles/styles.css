@@ -44,11 +44,18 @@
 /* Header Feature Part */
 
 .feature-item-container {
-  height: 100vh;
+  height: 70vh;
   .text-container {
     text-align: center;
     margin: auto;
     padding-top: 7rem;
+  }
+  .text-container{
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: rgb(39, 39, 39);
+  }
+  .text-container-description{
+    color: rgb(122, 117, 117);
   }
   .feature-images {
     display: flex;
@@ -85,3 +92,8 @@
   padding-top: 1.5rem;
 }
 
+/* Main Part*/
+
+.discount-container{
+  display: flex;
+}
