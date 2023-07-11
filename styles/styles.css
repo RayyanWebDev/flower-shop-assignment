@@ -2,9 +2,7 @@
   padding: 0px;
   margin: 0px;
 }
-/* Header */
-
-/* Banner */
+/* Header Banner Part*/
 
 .banner-container {
   background-color: rgb(253, 238, 241);
@@ -43,4 +41,13 @@
   width: 500px;
 }
 
-/* Feature */
+/* Header Feature Part */
+
+.featured-items {
+  display: flex;
+  height: 100vh;
+  text-align: center;
+}
+.feature-images {
+  display: flex;
+}
