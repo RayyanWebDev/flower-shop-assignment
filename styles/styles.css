@@ -2,13 +2,13 @@
   padding: 0px;
   margin: 0px;
 }
-.banner-description {
+.banner-container {
   background-color: rgb(253, 238, 241);
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-.banner-text {
+.banner-description {
   padding: 50px;
   margin-left: 190px;
 }
@@ -25,13 +25,16 @@
 .shop-now-btn {
   background-color: rgb(229, 84, 115);
   color: white;
-  padding: 10px 20px;
+  font-size: 17px;
+  padding: 12px 30px;
+  margin-top: 0.5rem;
   border-radius: 0.5em;
   border-style: none;
 }
 .banner-image {
   padding-top: 50px;
-  padding-right: ;
+  padding-right: 80px;
+  margin-right: 170px;
   height: 635px;
   width: 500px;
 }
