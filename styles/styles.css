@@ -43,30 +43,36 @@
 
 /* Header Feature Part */
 
-.text-container {
-  text-align: center;
-  margin: auto;
-  padding-top: 7rem;
-}
-.feature-images {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 2rem;
-  padding-top: 5rem;
-}
-.feature-image-pink {
-  height: 190px;
-}
-.feature-image-red {
-  height: 180px;
-}
-.feature-image-yellow {
-  height: 190px;
-}
 .feature-item-container {
   height: 100vh;
-}
+  .text-container {
+    text-align: center;
+    margin: auto;
+    padding-top: 7rem;
+  }
+  .feature-images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding-top: 5rem;
+  }
+  .feature-image-pink {
+    height: 190px;
+    background-color: rgb(242, 222, 232);
+    border-radius: 50px;
+  }
+  .feature-image-red {
+    height: 180px;
+    background-color: rgb(218, 240, 241);
+  }
+  .feature-image-yellow {
+    height: 190px;
+    width: ;
+    background-color: rgb(228, 236, 220);
+  }
+
+
 .tree-anchor {
   display: flex;
   justify-content: center;
