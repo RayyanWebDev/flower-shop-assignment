@@ -90,6 +90,10 @@
   gap: 10.5em;
   padding-top: 1.5rem;
 }
+.tree-anchor-color {
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
 
 /* Header Courier Letter Section */
 
