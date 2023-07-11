@@ -99,6 +99,7 @@
 }
 .discount-section {
   padding: 40px;
+  padding-top: 3.5rem;
   margin-left: 380px;
   text-align: center;
   justify-content: center;
@@ -126,4 +127,10 @@
   margin-right: 100px;
   height: 220px;
   width: 160px;
+}
+.primary-color {
+  color: rgb(229, 84, 115);
+}
+.instagram {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
