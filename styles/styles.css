@@ -131,6 +131,14 @@
 .primary-color {
   color: rgb(229, 84, 115);
 }
+
+/* Social Media Section */
+
 .instagram {
+  padding-bottom: 0.5rem;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(39, 39, 39);
+}
+.social-media-description {
+  color: rgb(122, 117, 117);
 }
