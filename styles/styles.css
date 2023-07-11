@@ -90,17 +90,40 @@
   gap: 10.5em;
   padding-top: 1.5rem;
 }
-
-.discount-description {
-  color: rgb(122, 117, 117);
-}
 .discount-container {
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  height: 30vh;
+  background-color: rgb(254, 246, 248);
+}
+.discount-section {
+  padding: 40px;
+  margin-left: 380px;
+  text-align: center;
+  justify-content: center;
 }
 .percentile-title {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
+.discount-description {
+  color: rgb(122, 117, 117);
+}
+
 .btn-sign-up {
   background-color: rgb(229, 84, 115);
+  color: white;
+  font-size: 17px;
+  padding: 12px 30px;
+  margin-top: 0.5rem;
+  border-radius: 0.5em;
+  border-style: none;
+}
+.discount-decorative-img {
+  padding-top: 50px;
+  padding-right: 500px;
+  margin-bottom: 3rem;
+  margin-right: 100px;
+  height: 220px;
+  width: 160px;
 }
